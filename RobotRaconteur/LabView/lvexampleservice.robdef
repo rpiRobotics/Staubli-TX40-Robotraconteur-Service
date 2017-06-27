@@ -1,0 +1,8 @@
+service lvexampleservice
+
+object lvservice
+	property double p1
+	property double[] p2
+
+
+end object

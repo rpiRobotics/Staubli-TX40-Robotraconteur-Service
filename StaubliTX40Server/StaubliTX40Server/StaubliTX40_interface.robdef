@@ -1,0 +1,17 @@
+service StaubliTX40_interface
+
+struct Frame
+	field double[*] Rotation
+	field double[3] Position
+
+end struct
+
+object StaubliTX40
+	property double[6] ActualJointAngles
+	property double[6] DesiredJointAngles
+
+	property Frame ActualCartesianPos
+	property Frame DesiredCartesianPos
+
+
+end object

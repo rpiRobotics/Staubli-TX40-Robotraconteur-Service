@@ -1,0 +1,6 @@
+C:\Users\Staubli\Desktop\StaubliTX40Server\StaubliTX40Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Staubli\Desktop\StaubliTX40Server\StaubliTX40Server\bin\Release\StaubliTX40Server.exe.config
+C:\Users\Staubli\Desktop\StaubliTX40Server\StaubliTX40Server\bin\Release\StaubliTX40Server.exe
+C:\Users\Staubli\Desktop\StaubliTX40Server\StaubliTX40Server\bin\Release\StaubliTX40Server.pdb
+C:\Users\Staubli\Desktop\StaubliTX40Server\StaubliTX40Server\obj\x86\Release\StaubliTX40Server.exe
+C:\Users\Staubli\Desktop\StaubliTX40Server\StaubliTX40Server\obj\x86\Release\StaubliTX40Server.pdb
